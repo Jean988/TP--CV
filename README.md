@@ -1,4 +1,9 @@
-# TP--CV 
+# TP--CV
+Nom : ANIDOU
+Prénom : Jean-Baptiste
+Ville de residence : Courtrai
+Email : anidoujean13@gmail.com
+ 
 Nom : Lutonadio
 Prénom : Isaac 
 Age : 19 
